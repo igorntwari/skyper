@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/Skyper.git"
+    "url": "git+https://github.com/igorntwari/Skyper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/Skyper/issues"
+    "url": "https://github.com/igorntwari/Skyper/issues"
   },
-  "homepage": "https://github.com/basir/Skyper#readme"
+  "homepage": "https://github.com/igorntwari/Skyper#readme"
 }
