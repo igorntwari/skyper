@@ -79,8 +79,8 @@ export default function SignupScreen() {
             <Form.Label>Confirm Password</Form.Label>
             <Form.Control
               type='password'
-              onChange={(e) => setConfirmPassword(e.target.value)}
               required
+              onChange={(e) => setConfirmPassword(e.target.value)}
             />
           </Form.Group>
         </Form.Group>

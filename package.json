@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/igorntwari/Skyper/issues"
   },
-  "homepage": "https://github.com/igorntwari/Skyper#readme"
+  "homepage": "https://github.com/igorntwari/Skyper#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
 }
